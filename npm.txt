@@ -21,3 +21,4 @@ npm install redux-logger
 npm install redux-thunk
 npm install --save redux
 changed
+changed 1
