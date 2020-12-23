@@ -20,3 +20,4 @@ npm install react-redux
 npm install redux-logger
 npm install redux-thunk
 npm install --save redux
+changed
