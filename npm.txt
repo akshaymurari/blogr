@@ -1,0 +1,22 @@
+npm install -g create-react-app
+create-react-app --version
+create-react-app <projectname>
+{npm run build
+npm install -g serve  
+serve -s build} => (for components in chrome) 
+npm install material-ui\icons
+npm install material-ui\core
+npm start
+npm init
+npm install bootstrap
+npm install react-router-dom
+npm install -g sass 
+npm install --save-dev sass (install sass)
+#redux
+npm init --yes
+npm install redux
+node filename (to run)
+npm install react-redux
+npm install redux-logger
+npm install redux-thunk
+npm install --save redux
