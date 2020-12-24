@@ -1,0 +1,8 @@
+npm install -g sass 
+npm install --save-dev sass
+npm install bootstrap
+npm install react-router-dom
+npm install jquery
+npm install 
+{% comment %} npm install -g serve
+npm set registry http://registry.npmjs.org/   {% endcomment %}

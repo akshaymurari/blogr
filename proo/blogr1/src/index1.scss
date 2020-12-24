@@ -1,0 +1,11 @@
+@mixin m-p($m:0,$p:0){
+    margin:$m;
+    padding:$p
+}
+body{
+    font-size: 62.5%;   
+}
+*{
+    @include m-p();
+    box-sizing: border-box;
+}

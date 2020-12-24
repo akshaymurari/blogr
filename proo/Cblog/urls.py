@@ -1,5 +1,5 @@
-import django.urls from path
-import .Cblog from 
+from django.urls import path
+from Cblog import views 
 urlpatterns = [
-    path('',)
+    path('',views.welcomePage,name="w-h"),
 ]
