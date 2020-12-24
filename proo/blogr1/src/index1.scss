@@ -5,7 +5,7 @@
 body{
     font-size: 62.5%;   
 }
-*{
+*{ 
     @include m-p();
     box-sizing: border-box;
 }

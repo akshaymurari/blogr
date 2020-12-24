@@ -1,0 +1,34 @@
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+@mixin mr($in:"",$v){
+    margin-#{$in}:$v ;
+}
+@mixin pa($in:"",$v){
+    padding-#{$in}:$v ;
+}
+.loginpage{
+    // width:100vw;
+    height:100vh;
+    position:absolute;
+    background:#bed7ed !important;
+    .bodyy{
+        // margin-top:50%;
+        // transform:translatey(20%) ;
+        background-color: #e4edf5 !important;
+        padding-bottom: 2rem !important;
+        .heading{
+            font-family: 'Poppins', sans-serif;
+            word-spacing: 0.5rem;
+            background-color: #49e362 !important;
+            background-color: #5da7e8 !important;
+        }
+        .text{
+            margin-left:0.2rem !important;
+            margin-top: 1rem !important;
+        }
+        .btnlogin {
+            outline: none !important;
+            background-color: #5da7e8 !important;
+        }
+    }
+}
